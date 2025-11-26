@@ -153,7 +153,7 @@ Want to run DealVault locally? Here's what you need:
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Anuragt1104/nft-deals-platform.git
 cd nft-deals-platform
 ```
 
@@ -302,7 +302,7 @@ This project is licensed under the ISC License.
 ### Submission Components
 
 - ✅ Deployed application (see SETUP.md for deployment instructions)
-- ✅ GitHub repository with complete source code
+- ✅ GitHub repository with complete source code: [https://github.com/Anuragt1104/nft-deals-platform](https://github.com/Anuragt1104/nft-deals-platform)
 - ✅ Video demonstration (see demo video link)
 - ✅ Technical documentation (this README and associated docs)
 - ✅ API exposed for integration
